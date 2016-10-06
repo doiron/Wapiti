@@ -1,8 +1,9 @@
 package com.wapiti;
 
 public class Main {
+    private static String NAME = "Wapiti";
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println(NAME);
     }
 }
